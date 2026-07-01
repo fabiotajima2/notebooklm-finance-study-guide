@@ -58,16 +58,7 @@ Conteúdo utilizado:
 
 ---
 
-### 3. Portal do Investidor – CVM
-https://www.gov.br/investidor/pt-br
-
-Conteúdo utilizado:
-- Introdução aos investimentos;
-- Conceitos básicos financeiros.
-
----
-
-### 4. Tesouro Direto – Educação Financeira
+### 3. Tesouro Direto – Educação Financeira
 https://www.tesourodireto.com.br/educacao-financeira.htm
 
 Conteúdo utilizado:
@@ -76,7 +67,7 @@ Conteúdo utilizado:
 
 ---
 
-### 5. Sebrae – Gestão Financeira
+### 4. Sebrae – Gestão Financeira
 https://sebrae.com.br
 
 Conteúdo utilizado:
@@ -85,7 +76,7 @@ Conteúdo utilizado:
 
 ---
 
-### 6. Cartilha de Cidadania Financeira – Banco Central (PDF)
+### 5. Cartilha de Cidadania Financeira – Banco Central (PDF)
 [Acessar PDF](caderno_cidadania_financeira.pdf)
 
 Conteúdo utilizado:
