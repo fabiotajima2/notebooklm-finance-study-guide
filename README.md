@@ -65,18 +65,10 @@ Conteúdo utilizado:
 - Reserva de emergência;
 - Planejamento financeiro.
 
----
-
-### 4. Sebrae – Gestão Financeira
-https://sebrae.com.br
-
-Conteúdo utilizado:
-- Organização financeira;
-- Controle de despesas.
 
 ---
 
-### 5. Cartilha de Cidadania Financeira – Banco Central (PDF)
+### 4. Cartilha de Cidadania Financeira – Banco Central (PDF)
 [Acessar PDF](caderno_cidadania_financeira.pdf)
 
 Conteúdo utilizado:
@@ -116,13 +108,6 @@ Foi possível compreender o crescimento exponencial dos juros ao longo do tempo.
 **Resultado obtido:**
 Identificação das diferenças entre liquidez, risco e crescimento patrimonial.
 
----
-
-### Prompt 5
-> Quais hábitos financeiros contribuem para estabilidade financeira?
-
-**Resultado obtido:**
-Foram apresentados hábitos relacionados a planejamento e consumo consciente.
 
 ---
 
