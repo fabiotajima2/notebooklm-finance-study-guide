@@ -1,6 +1,6 @@
 # 📚 Caderno Temático – Educação Financeira Pessoal com NotebookLM
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do desafio da DIO **"Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"**.
 
@@ -12,7 +12,7 @@ Tema escolhido:
 
 ---
 
-# 🎯 Objetivos de Estudo
+#  Objetivos de Estudo
 
 Ao concluir este estudo, espera-se:
 
@@ -25,7 +25,7 @@ Ao concluir este estudo, espera-se:
 
 ---
 
-# 📖 Contextualização
+#  Contextualização
 
 A educação financeira é uma competência essencial para administrar recursos de forma consciente e sustentável.
 
@@ -35,7 +35,7 @@ O NotebookLM foi utilizado para transformar documentos em um ambiente de aprendi
 
 ---
 
-# 📚 Curadoria de Fontes
+#  Curadoria de Fontes
 
 As seguintes fontes abertas foram utilizadas:
 
@@ -85,7 +85,7 @@ Conteúdo utilizado:
 
 ---
 
-# 🧠 Engenharia de Prompts e Testes
+#  Engenharia de Prompts e Testes
 
 ## Prompt 1
 > Explique os conceitos fundamentais de educação financeira para iniciantes.
@@ -127,7 +127,7 @@ Foram apresentados hábitos relacionados a planejamento e consumo consciente.
 
 ---
 
-# ⚠️ Dificuldades Encontradas ("Cicatrizes")
+#  Dificuldades Encontradas ao longo do projeto ("Cicatrizes")
 
 Durante o desenvolvimento do estudo foram observados alguns desafios:
 
@@ -140,7 +140,7 @@ Esses ajustes ajudaram a melhorar a qualidade das respostas geradas pelo Noteboo
 
 ---
 
-# 📝 Miniguia de Estudo
+#  Miniguia de Estudo
 
 ## O que é Educação Financeira?
 
@@ -172,17 +172,17 @@ Aplicação financeira com expectativa de retorno futuro.
 
 ## Principais Aprendizados
 
-✅ Controlar gastos aumenta previsibilidade financeira.
+- Controlar gastos aumenta previsibilidade financeira.
 
-✅ Criar reserva de emergência reduz riscos.
+- Criar reserva de emergência reduz riscos.
 
-✅ Juros compostos podem favorecer investimentos ou aumentar dívidas.
+- Juros compostos podem favorecer investimentos ou aumentar dívidas.
 
-✅ Planejamento financeiro melhora decisões de consumo.
+- Planejamento financeiro melhora decisões de consumo.
 
 ---
 
-# 🔁 Prompts Reutilizáveis
+#  Prompts Reutilizáveis
 
 ```txt
 Explique este conteúdo como se eu fosse iniciante.
@@ -198,7 +198,7 @@ Transforme este conteúdo em um plano de estudos.
 
 ---
 
-# 🚀 Ferramentas Utilizadas
+#  Ferramentas Utilizadas
 
 - NotebookLM
 - GitHub
@@ -207,7 +207,7 @@ Transforme este conteúdo em um plano de estudos.
 
 ---
 
-# 📌 Conclusão
+#  Conclusão
 
 Este projeto demonstrou como o NotebookLM pode ser utilizado como ferramenta de aprendizagem ativa, permitindo organizar informações, testar perguntas estratégicas e consolidar conhecimento de forma estruturada.
 
