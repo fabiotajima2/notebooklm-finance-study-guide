@@ -1,6 +1,6 @@
-# 📚 Caderno Temático – Educação Financeira Pessoal com NotebookLM
+# 📚 Personal Financial Education with NotebookLM
 
-## Sobre o Projeto
+## Entendendo o Projeto
 
 Este projeto foi desenvolvido como parte do desafio da DIO **"Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"**.
 
