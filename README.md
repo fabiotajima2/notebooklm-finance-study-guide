@@ -1,6 +1,6 @@
 # 📚 Caderno Temático – Educação Financeira Pessoal com NotebookLM
 
-##  Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do desafio da DIO **"Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"**.
 
@@ -12,7 +12,7 @@ Tema escolhido:
 
 ---
 
-#  Objetivos de Estudo
+## Objetivos de Estudo
 
 Ao concluir este estudo, espera-se:
 
@@ -25,7 +25,7 @@ Ao concluir este estudo, espera-se:
 
 ---
 
-#  Contextualização
+## Contextualização
 
 A educação financeira é uma competência essencial para administrar recursos de forma consciente e sustentável.
 
@@ -35,7 +35,7 @@ O NotebookLM foi utilizado para transformar documentos em um ambiente de aprendi
 
 ---
 
-#  Curadoria de Fontes
+## Curadoria de Fontes
 
 As seguintes fontes abertas foram utilizadas:
 
@@ -85,49 +85,49 @@ Conteúdo utilizado:
 
 ---
 
-#  Engenharia de Prompts e Testes
+## Engenharia de Prompts e Testes
 
-## Prompt 1
+### Prompt 1
 > Explique os conceitos fundamentais de educação financeira para iniciantes.
 
-### Resultado obtido
+**Resultado obtido:**
 Foi gerado um panorama inicial sobre orçamento, despesas, receitas e organização financeira.
 
 ---
 
-## Prompt 2
+### Prompt 2
 > Crie um plano financeiro mensal para um estudante universitário.
 
-### Resultado obtido
+**Resultado obtido:**
 Foram sugeridas categorias de gastos e formas de controle.
 
 ---
 
-## Prompt 3
+### Prompt 3
 > Explique como os juros compostos afetam economias e dívidas.
 
-### Resultado obtido
+**Resultado obtido:**
 Foi possível compreender o crescimento exponencial dos juros ao longo do tempo.
 
 ---
 
-## Prompt 4
+### Prompt 4
 > Compare guardar dinheiro e investir.
 
-### Resultado obtido
+**Resultado obtido:**
 Identificação das diferenças entre liquidez, risco e crescimento patrimonial.
 
 ---
 
-## Prompt 5
+### Prompt 5
 > Quais hábitos financeiros contribuem para estabilidade financeira?
 
-### Resultado obtido
+**Resultado obtido:**
 Foram apresentados hábitos relacionados a planejamento e consumo consciente.
 
 ---
 
-#  Dificuldades Encontradas ao longo do projeto ("Cicatrizes")
+## Dificuldades Encontradas ao longo do projeto ("Cicatrizes")
 
 Durante o desenvolvimento do estudo foram observados alguns desafios:
 
@@ -140,49 +140,46 @@ Esses ajustes ajudaram a melhorar a qualidade das respostas geradas pelo Noteboo
 
 ---
 
-#  Miniguia de Estudo
+## Miniguia de Estudo
 
-## O que é Educação Financeira?
+### O que é Educação Financeira?
 
 Educação financeira é o conjunto de conhecimentos e práticas que ajudam uma pessoa a administrar recursos financeiros com maior consciência.
 
 ---
 
-## Conceitos Principais
+### Conceitos Principais
 
-### Receita
+**Receita**
 Dinheiro recebido.
 
-### Despesa
+**Despesa**
 Dinheiro gasto.
 
-### Orçamento
+**Orçamento**
 Planejamento financeiro.
 
-### Reserva de Emergência
+**Reserva de Emergência**
 Valor destinado para imprevistos.
 
-### Juros Compostos
+**Juros Compostos**
 Juros calculados sobre valores acumulados anteriormente.
 
-### Investimento
+**Investimento**
 Aplicação financeira com expectativa de retorno futuro.
 
 ---
 
-## Principais Aprendizados
+### Principais Aprendizados
 
 - Controlar gastos aumenta previsibilidade financeira.
-
 - Criar reserva de emergência reduz riscos.
-
 - Juros compostos podem favorecer investimentos ou aumentar dívidas.
-
 - Planejamento financeiro melhora decisões de consumo.
 
 ---
 
-#  Prompts Reutilizáveis
+## Prompts Reutilizáveis
 
 ```txt
 Explique este conteúdo como se eu fosse iniciante.
@@ -198,7 +195,7 @@ Transforme este conteúdo em um plano de estudos.
 
 ---
 
-#  Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - NotebookLM
 - GitHub
@@ -207,7 +204,7 @@ Transforme este conteúdo em um plano de estudos.
 
 ---
 
-#  Conclusão
+## Conclusão
 
 Este projeto demonstrou como o NotebookLM pode ser utilizado como ferramenta de aprendizagem ativa, permitindo organizar informações, testar perguntas estratégicas e consolidar conhecimento de forma estruturada.
 
