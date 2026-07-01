@@ -49,6 +49,14 @@ Conteúdo utilizado:
 
 ---
 
+### 6. Cartilha de Cidadania Financeira – Banco Central (PDF)
+[Acessar PDF](caderno_cidadania_financeira.pdf)
+
+Conteúdo utilizado:
+- Conceitos introdutórios de educação financeira e cidadania financeira.
+  
+---
+
 ### 2. Estratégia Nacional de Educação Financeira (ENEF)
 https://www.gov.br/vida-financeira/pt-br
 
